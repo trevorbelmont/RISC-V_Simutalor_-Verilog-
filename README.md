@@ -39,4 +39,3 @@ At the end of execution, the simulator generates **animated visualizations of th
 Simply open the notebook in **Google Colab**, upload your hex dump file, and run the simulation.
 
 https://colab.research.google.com/drive/1T0hs4dQUmbr1k2FAl3bpXoldnj05oFPE?usp=sharing
->>>>>>> e5f98f2 (Escreve o README.md)
